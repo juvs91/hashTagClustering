@@ -1,0 +1,3 @@
+var point = function point (x,y) {
+	// body...
+}
